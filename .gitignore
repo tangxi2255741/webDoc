@@ -20,4 +20,4 @@ maven-local.properties
 /.idea/
 /node_modules/
 #/SUMMARY.md
-*.md
+/_book/
